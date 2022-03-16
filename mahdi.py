@@ -1,6 +1,14 @@
 import re, random, time, bs4, os, sys, mechanize,requests
 from http.cookiejar import LWPCookieJar as kuki
 os.system('clear')
+print(""".88b  d88.  .d8b.  db   db d8888b. d888888b\n88'YbdP`88 d8' `8b 88   88 88  `8D   `88'\n88  88  88 88ooo88 88ooo88 88   88    88\n88  88  88 88~~~88 88~~~88 88   88    88\n88  88  88 88   88 88   88 88  .8D   .88.\nYP  YP  YP YP   YP YP   YP Y8888D' Y888888P                                             
+\033[0m================================================================
+CREATED BY MAHDI HASAN(SHUVO)
+FB ; https://web.facebook.com/mahdi80808
+FB Grup ;https://web.facebook.com/groups/610487559129086
+================================================================
+""")
+
 br = mechanize.Browser()
 br.set_handle_equiv(True)
 br.set_handle_redirect(True)
